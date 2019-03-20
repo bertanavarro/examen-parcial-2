@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: Segoe UI;
+	 color:#161616;
+}
+
+#slides h1{
+	text-align: left;
+	text-transform: uppercase;
+	color: #FF8600;
+	font-weight: 700;
+	font-size: 70px;
+	
+}
+
+#slides p{
+	text-align: left; 
+	font-size: 20px;
+	
+}
+
+.btn{
+	text-align: left;
+}
+
+#servicios{
+	text-align: center;
+	padding: 100px;
+}
+
+#servicios h2{
+	text-align: center;
+	color: #0A00FF;
+	padding-bottom: 30px;
+}
+
+#car-services{
+	margin: 50px;
+}
+
+#car-services h4{
+	font-weight: 300px;
+}
+
+#car-services i{
+	margin: 30px;
+	font-size: 30px;
+}
+
+#car1{
+	background-color:#DBDADA;
+}
+
+#car2{
+	background-color:#DBDADA;
+}
+
+#car3{
+	background-color:#DBDADA;
+}
+
+
+#sec-welcome{
+	font-size: 15px;
+	text-align: left;
+	padding-bottom: 100px;
+}
+
+footer{
+	background-color: #091F5B;
+	color: #fff;
+	padding: 30px 0px;
+}
+
+#sec-gallery{
+	background-color: #2557DE;
+	padding: 40px 0px;
+	
+}
+
+#sec-gallery h1{
+	color: #FF9702;
+}
+
+#sec-gallery p{
+	color: #FFF;
+}
+
+#sec-welcome h1{
+	color: #233597;
+}
+
+i{
+	color: #FF9702
+}
+
+.sub-1{
+	font-weight: 100;
+	
+}
+
+.sub-2{
+	font-weight: 300;
+}
+
+#sec-welcome h4{
+	font-size: 15px;
+	text-align: left;
+}
+
+#sec-clients h1{
+	
+	color: blue;
+	
+}
+
+#sec-clients{
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+
